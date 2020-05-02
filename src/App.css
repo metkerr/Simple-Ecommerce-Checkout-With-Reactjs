@@ -1,0 +1,54 @@
+.Container{
+  width: 80%;
+  overflow: hidden;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.ProductImg{
+  height: 100% !important;
+  width: auto !important;
+  min-width: 400px;
+}
+
+.ProductImg img{
+  max-width: 400px;
+  max-height: 400px;
+}
+
+.ProductDesc{
+  min-width: 275px;
+}
+
+.Price{ 
+  color: #BA7C27;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.DescCategory{
+  font-size: 20px;
+  color: rgb(173, 172, 172);
+}
+
+.Button{
+  padding: 10px 25px;
+  background: #BA7C27;
+  border: none;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  transition: 0.2s;
+}
+
+.Button:hover{
+  cursor: pointer;
+  background: rgb(163, 109, 32);
+  transition: 0.2s;
+}
+
+.Button:active{
+  background: rgb(102, 69, 23);
+}
