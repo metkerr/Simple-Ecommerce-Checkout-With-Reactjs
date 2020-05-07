@@ -1,7 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Demo Link
-simple-react-ecommerce-checkout-design.netlify.app
+## Demo Link [simple-react-ecommerce-checkout-design.netlify.app]
 
 ## Available Scripts
 
